@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Base" size="0.500000 0.888889" />
+    <ImageTarget name="Soldier" size="0.500000 0.888889" />
+    <ImageTarget name="Tank" size="0.500000 0.888889" />
+    <ImageTarget name="Car" size="0.500000 0.888889" />
+  </Tracking>
+</QCARConfig>
